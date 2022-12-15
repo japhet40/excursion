@@ -3,10 +3,40 @@ h1 {
     font-weight: normal;
     font-size: 50px;
     color: white;
-    align-items: center;
+    text-align: center;
+}
+
+h3 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color:white;
+    text-align: center;
+}
+h5{
+    font-family: Verdana;
+    color: gray;
+    font-size: 21px;
+    text-align: center;
 }
 
 a {
+    display: block;
     color: aquamarine;
     font-size: 16px;
+    text-align: center;
+}
+
+* {
+    background-color: black;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
+
+p {
+    text-align: center;
+
 }
